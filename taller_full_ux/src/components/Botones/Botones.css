@@ -1,0 +1,66 @@
+.botones {
+    border-radius: 50px;
+    height: 60px;
+    position: relative;
+    width: 400px;
+}
+.botones .acceder {
+    font-size: 18px;
+    height: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 15px;
+}
+.botones.press {
+    background-color: #E80000;
+}
+.botones.hover {
+    background-color: #151A20;
+}
+.botones.default {
+    background-color: #151A20;
+}
+.botones.disable {
+    background-color: #D1D1D6;
+}
+.botones.press .acceder {
+    color: #FFFFFF;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    left: 31px;
+    text-decoration: underline;
+    width: 335px;
+}
+.botones.hover .acceder {
+    color: #FFFFFF;
+    font-family: "Poppins-Bold", Helvetica;
+    font-weight: 700;
+    left: 32px;
+    text-decoration: underline;
+    width: 333px;
+}
+.botones.default .acceder {
+    color: #FFFFFF;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    left: 38px;
+    width: 327px;
+}
+.botones.disable .acceder {
+    color: #818181;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    left: 33px;
+    width: 332px;
+}
+
+
+
+
+
+
+
+
+

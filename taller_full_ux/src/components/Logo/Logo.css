@@ -1,0 +1,62 @@
+.logo {
+    align-items: flex-start;
+    position: relative;
+}
+.logo .setting {
+    position: relative;
+}
+.logo .text-wrapper {
+    color: #000000;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-weight: 600;
+    line-height: normal;
+    position: relative;
+}
+.logo.small {
+    display: inline-flex;
+    gap: 5.2px;
+}
+.logo.big {
+    display: flex;
+    gap: 8.38px;
+    height: 54px;
+    width: 327px;
+}
+.logo.medium {
+    display: inline-flex;
+    gap: 7px;
+}
+.logo.small .setting {
+    height: 32.12px;
+    width: 32.06px;
+}
+.logo.big .setting {
+    height: 51.81px;
+    width: 51.71px;
+}
+.logo.medium .setting {
+    height: 43.26px;
+    width: 43.17px;
+}
+.logo.small .text-wrapper {
+    font-size: 22.1px;
+    height: 33.59px;
+    letter-spacing: 0.22px;
+    margin-top: -0.74px;
+    width: 165.58px;
+}
+.logo.big .text-wrapper {
+    font-size: 35.6px;
+    height: 54.18px;
+    letter-spacing: 0.36px;
+    margin-right: -0.2px;
+    margin-top: -1.2px;
+    width: 267.1px;
+}
+.logo.medium .text-wrapper {
+    font-size: 29.7px;
+    height: 45.23px;
+    letter-spacing: 0.3px;
+    margin-top: -1px;
+    width: 222.99px;
+}

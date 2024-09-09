@@ -1,0 +1,174 @@
+.login-desktop {
+    background-color: #EFEFED;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.login-desktop .div {
+    background-color: #EFEFED;
+    border: 1px none;
+    height: 982px;
+    overflow: hidden;
+    position: relative;
+    width: 1512px;
+}
+.login-desktop .overlap {
+    background-image: url(./image-2.png);
+    background-size: 100% 100%;
+    height: 922px;
+    left: 60px;
+    position: absolute;
+    top: 30px;
+    width: 787px;
+}
+.login-desktop .logo-instance {
+    left: 32px !important;
+    top: 29px !important;
+}
+.login-desktop .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 10px;
+    left: 867px;
+    padding: 60px 78px;
+    position: absolute;
+    top: 29px;
+}
+.login-desktop .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 173px;
+    position: relative;
+}
+.login-desktop .bienvenido-a {
+    color: #262626;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+.login-desktop .text-wrapper {
+    color: #262626;
+    font-family: var(--heading-1-regular-font-family);
+    font-size: var(--heading-1-regular-font-size);
+    font-style: var(--heading-1-regular-font-style);
+    font-weight: var(--heading-1-regular-font-weight);
+    letter-spacing: var(--heading-1-regular-letter-spacing);
+    line-height: var(--heading-1-regular-line-height);
+}
+.login-desktop .span {
+    color: #262626;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 0;
+}
+.login-desktop .text-wrapper-2 {
+    font-family: var(--heading-1-bold-font-family);
+    font-size: var(--heading-1-bold-font-size);
+    font-style: var(--heading-1-bold-font-style);
+    font-weight: var(--heading-1-bold-font-weight);
+    letter-spacing: var(--heading-1-bold-letter-spacing);
+    line-height: var(--heading-1-bold-line-height);
+}
+.login-desktop .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 21px;
+    position: relative;
+}
+.login-desktop .campos-de-texto-instance {
+    position: relative !important;
+}
+.login-desktop .frame-4 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 114px;
+    position: relative;
+}
+.login-desktop .frame-5 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+}
+.login-desktop .checkbox-instance {
+    height: 12px !important;
+    position: relative !important;
+    width: 12px !important;
+}
+.login-desktop .text-wrapper-3 {
+    color: #000000;
+    font-family: "Poppins-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+.login-desktop .text-wrapper-4 {
+    color: #000000;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+.login-desktop .frame-6 {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    gap: 105px;
+    position: relative;
+}
+.login-desktop .no-tienes-cuenta-reg {
+    color: transparent;
+    font-family: "Poppins-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+.login-desktop .text-wrapper-5 {
+    color: #1E232C;
+    font-family: var(--body-regular-font-family);
+    font-size: var(--body-regular-font-size);
+    font-style: var(--body-regular-font-style);
+    font-weight: var(--body-regular-font-weight);
+    letter-spacing: var(--body-regular-letter-spacing);
+    line-height: var(--body-regular-line-height);
+}
+.login-desktop .text-wrapper-6 {
+    color: #DE0303;
+    font-family: var(--body-semibold-font-family);
+    font-size: var(--body-semibold-font-size);
+    font-style: var(--body-semibold-font-style);
+    font-weight: var(--body-semibold-font-weight);
+    letter-spacing: var(--body-semibold-letter-spacing);
+    line-height: var(--body-semibold-line-height);
+}
+.login-desktop .frame-7 {
+    height: 100px;
+    position: relative;
+    width: 100px;
+}

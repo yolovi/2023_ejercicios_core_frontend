@@ -1,0 +1,16 @@
+.box {
+    border: 0px none;
+    height: 54px;
+    width: 435px;
+}
+.box .rectangle {
+    background-color: #FFFFFF;
+    border: 2px solid;
+    border-color: #383838;
+    border-radius: 40px;
+    height: 54px;
+    left: 800px; /* need to be inside a div, not the hole page*/
+    position: fixed;
+    /* top: 0; */
+    width: 435px;
+}
